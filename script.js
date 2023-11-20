@@ -1,2 +1,3 @@
-console.log("script.js");
-console.log("version1");
+console.log(`hello world ✋🏿✋🏿✋🏿`);
+console.log(`hello world ✋🏿✋🏿✋🏿`);
+console.log(`hello world ✋🏿✋🏿✋🏿`);
